@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-95-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-30-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
   <img alt="NodeJS Version" src="https://img.shields.io/node/v/carbon.svg?style=for-the-badge">
 </p>
