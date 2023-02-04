@@ -52,6 +52,7 @@ function sockMerchant(n, ar) {
       }
     }
     for(let key in obj){
+        // checking pair and count it 
       count+=Math.floor(obj[key]/2)
     }
   return  count
