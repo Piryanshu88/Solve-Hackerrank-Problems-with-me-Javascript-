@@ -5,8 +5,8 @@ const fs = require("fs");
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 
-let inputString = "";
-let currentLine = 0;
+let inputString = "" ;
+let currentLine = 0 ;
 
 process.stdin.on("data", function (inputStdin) {
   inputString += inputStdin;
